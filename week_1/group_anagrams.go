@@ -1,4 +1,4 @@
-package leetcode
+package week_1
 
 import "sort"
 
